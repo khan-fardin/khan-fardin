@@ -58,7 +58,8 @@ I’m a passionate and self-driven web developer focused on creating user-friend
   <img src="https://nirzak-streak-stats.vercel.app/?user=khan-fardin&theme=dark&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan-fardin&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
+
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=khan-fardin&icon=0&color=0" alt="Visitor Counter"/>
-</p>
+
+[![](https://visitcount.itsvg.in/api?id=khan-fardin&icon=0&color=0)](https://visitcount.itsvg.in)
+
