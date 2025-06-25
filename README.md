@@ -1,5 +1,5 @@
 
-<img src="github-demo-banner1.png" alt="Banner Image" width="full">
+<img src="github-demo-banner1.png" alt="Banner Image" width="1200">
 # 👋 Hi there, I'm Fardin Khan AKA Habibullah Ahmed Farding Khan
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://linkedin.com/in/your-link)
