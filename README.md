@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Fardin Khan
+# 👋 Hi there, I'm Fardin Khan AKA Habibullah Ahmed Farding Khan
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://linkedin.com/in/your-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://yourportfolio.com)
