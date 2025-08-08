@@ -1,8 +1,8 @@
 
 <img src="github-demo-banner1.png" alt="Banner Image" width="100%">
 
-# 👋 Hi, I'm Fardin Khan aka Habibullah Ahmed Fardin Khan  
-**Aspiring Web Developer** from Bangladesh 🇧🇩  
+# 👋 Hi, I'm Habibullah Ahmed Fardin Khan  
+**MERN Developer** from Bangladesh 🇧🇩  
 
 📍 **Location:** Brahmanbaria, Chittagong, Bangladesh  
 📧 **Email:** [fardin.habibullah@outlook.com](mailto:fardin.habibullah@outlook.com)
