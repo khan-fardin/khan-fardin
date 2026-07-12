@@ -26,7 +26,7 @@ I'm a Front-End Developer from Bangladesh currently pursuing a BSc in Computer S
 I specialize in React and Next.js, and I'm steadily expanding into full-stack development through real projects involving REST APIs, authentication, and database-backed workflows.
 
 - 🎓 &nbsp; BSc in CSE — **East West University** *(2025 – 2029)*
-- 📍 &nbsp; Based in **Brahmanbaria, Bangladesh**
+- 📍 &nbsp; Based in **Dhaka, Bangladesh**
 - 💬 &nbsp; Open to **internships, freelance work, and junior roles**
 - 📫 &nbsp; Reach me at **fardin.habibullah@outlook.com**
 
